@@ -5,12 +5,12 @@ There are two modes to this game:
 1. A human guesses the number
 2. A computer guesses the number
 
-##Computer Guess
+## Computer Guess
 - This method a simple implementation of the binary search algortithm
 - The user can choose how many times they want the computer to play the game
 - At the end of the computer game, a historgram is printed with the number of guesses
   it takes for the computer to get the right answer and the maximum number or guesses is printed
  
-##Future Improvements:
+## Future Improvements:
 - Prevent users from enetering string
 - Improve modualrity of code
