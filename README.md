@@ -12,5 +12,5 @@ There are two modes to this game:
   it takes for the computer to get the right answer and the maximum number or guesses is printed
  
 ## Future Improvements:
-- Prevent users from enetering string
+- Prevent users from entering string and  'breaking' the program
 - Improve modualrity of code
